@@ -1,0 +1,30 @@
+body{
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+}
+
+nav{
+  display: inline-block;
+}
+
+.left_nav a{
+  display: inline-block;
+  padding: 5px;
+  margin: 0 5px;
+  text-decoration: none;
+}
+
+.left_nav a:hover{
+  text-decoration: underline;
+}
+
+.right_nav a{
+  display: inline-block;
+  padding: 5px;
+  margin: 0 5px;
+  text-decoration: none;
+}
+
+.right_nav a:hover{
+  text-decoration: underline;
+}
